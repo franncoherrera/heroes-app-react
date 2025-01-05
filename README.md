@@ -8,7 +8,7 @@
 
 ### Características
 - Categorías de superheroes.
-- Busqueda de superheroes.
+- Búsqueda de superheroes.
 - Protección de rutas.
 
 ## 🛠️ Instalación
